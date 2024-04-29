@@ -3,7 +3,7 @@ import './globals.css';
 import { Footer, NavBar } from '@/components';
 
 export const metadata: Metadata = {
-  title: 'Create Next App',
+  title: 'Car App',
   description: 'Discover the best cars in the world.',
 };
 
