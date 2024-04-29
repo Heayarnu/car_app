@@ -76,7 +76,7 @@ const SearcBar = () => {
           name="model"
           value={model}
           onChange={(e) => setModel(e.target.value)}
-          placeholder="Tiguan"
+          placeholder="Model"
           className="searchbar__input pl-8" // Added padding-left to avoid overlap with the image
         />
         <SearchButton otherClasses="sm:hidden" />
